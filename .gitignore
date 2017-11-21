@@ -1,0 +1,10 @@
+*.o
+*.hex
+*.elf
+*.obj
+*.eep
+*.lss
+*.lst
+*.map
+*.sym
+.ycm_extra_conf.py
